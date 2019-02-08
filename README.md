@@ -2,6 +2,8 @@
 
 > Exploration of how to link WASH enabling environment data and more
 
+![Knowledge, Insight and Wisdow](./static/kiw.png)
+
 ## What We're Working On
 
 > https://github.com/nickdickinson/WASHWeb/issues
