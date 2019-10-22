@@ -4,18 +4,9 @@
 
 ![Knowledge, Insight and Wisdow](./static/kiw.png)
 
-## What We're Working On
+## How we organise
 
-> https://github.com/nickdickinson/WASHWeb/issues
-
-## What We're Aiming For
-
-> https://github.com/nickdickinson/WASHWeb/milestones
-
-## The Big Picture
-
-> https://github.com/nickdickinson/WASHWeb/projects
-
-## Wiki
-
-> https://github.com/nickdickinson/WASHWeb/wiki
+* [Issue tracker](https://github.com/nickdickinson/WASHWeb/issues)
+* [Milestones](https://github.com/nickdickinson/WASHWeb/milestones)
+* [Project boards](https://github.com/nickdickinson/WASHWeb/projects)
+* [Wiki](https://github.com/nickdickinson/WASHWeb/wiki)
